@@ -1,0 +1,20 @@
+# In terminal
+
+# Create the environment
+$ conda create — name YOU_CHANGE_THIS python=3.7 -y
+
+# Activate it
+$ conda activate YOU_CHANGE_THIS
+
+# Install the needed package
+$ pip install –r Requirements.txt
+
+# # ## # ## # ## # ## # ## # ##
+# # # Do your development # # #
+# # ## # ## # ## # ## # ## # ##
+
+# Deactivate and back to normal environment
+$ conda deactivate
+
+# This will remove the environment, do it when you finish the project?
+$ conda remove –name YOU_CHANGE_THIS –all
