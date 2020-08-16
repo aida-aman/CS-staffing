@@ -8,7 +8,7 @@ Cython==0.26
 decorator==4.1.2
 entrypoints==0.2.3
 enum34==1.1.6
-fbprophet==0.1.1
+fbprophet==0.6.0
 functools32==3.2.3.post2
 html5lib==0.999999999
 ipykernel==4.6.1
