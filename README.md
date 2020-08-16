@@ -1,2 +1,2 @@
-#Aim: to predict the number of customer service complaint tickets for the following month based on historical and current data.
+The files / scripts found in this repository are provided as-is and are aimed as a means for users to learn about using python for time-series forecasting.
 
