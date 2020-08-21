@@ -61,3 +61,13 @@ scipy==1.0.0
 ml_metrics==0.1.4
 pydlm==0.1.1.9
 pyflux==0.4.15
+ansiwrap
+click
+pyyaml
+nbformat
+nbclient >= 0.2.0
+tqdm >= 4.32.2
+requests
+entrypoints
+tenacity
+black
